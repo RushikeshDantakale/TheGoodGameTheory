@@ -1,0 +1,13 @@
+Create a small react app 
+
+to display data from https://punkapi.com/ 
+
+Display the data in cards with images,
+
+and add the search functionality. 
+
+Write clean code with standard practices 
+
+Push the code on your GitHub public repo 
+
+and share the link.

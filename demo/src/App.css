@@ -1,0 +1,30 @@
+.filterInput{
+  width : 90%;
+}
+
+input{
+  outline:none;
+  border:2px solid rgba(164, 164, 164, 0.234);
+}
+
+input:focus{
+  border:2px solid rgba(164, 164, 164, 0.649);
+}
+
+.custom-card {
+  background-color: rgba(255, 255, 255, 0.8) !important; /* Adjust the alpha (last) value for transparency */
+  color: white; /* Set text color for visibility on the background */
+  height: 690px !important; 
+}
+
+.custom-card:hover{
+  background-color: rgba(255, 255, 255, 1) !important; /* Adjust the alpha (last) value for transparency */
+  height: 690px !important;
+  z-index: 10;
+  /* scale : 1.001;   */
+  outline : 1px solid rgb(31, 28, 28);
+  transform : rotate(365deg);
+  transition: ease-in-out;
+
+  box-shadow:white  0px 15px 25px,white 0px 5px 10px;
+}
